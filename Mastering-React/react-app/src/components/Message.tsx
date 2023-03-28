@@ -1,7 +1,7 @@
-import React from "react";
+import React from 'react';
 
 export default function Message() {
-  const name = "John Doe";
+    const name = 'John Doe';
 
-  return <h1>Hello {name}</h1>;
+    return <h1>Hello {name}</h1>;
 }
